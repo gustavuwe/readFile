@@ -18,5 +18,5 @@ elif chooseType == 'Get the emails':
         if eachLine.startswith('From:') :
             print(eachLine)
 else:
-    print('Error: digit a type available!')git init
+    print('Error: digit a type available!')
     
